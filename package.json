@@ -11,6 +11,7 @@
     "jQuery",
     "plugin"
   ],
+  "repository": "https://github.com/rajohan/raymond-johannessen-js-frameworks-ma-1-level-2",
   "author": "Raymond Johannessen",
   "license": "MIT",
   "devDependencies": {

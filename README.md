@@ -18,7 +18,7 @@ NOTE: Make sure jQuery is included before slider and that both are included befo
 
 #### HTML Structure
 
-```
+```html
 <div id="slider">
     <figure>
         <img src="https://your-image-url.com" alt="Image alt text">
@@ -44,14 +44,14 @@ NOTE: Make sure jQuery is included before slider and that both are included befo
 NOTE: The figcaption is optional
 
 #### Initialize Slider.js
-```
+```javascript
 $(document).ready(() => {
     $("#slider").slider();
 });
 ```
 
 #### Edit settings
-```
+```javascript
 $(document).ready(() => {
     $("#slider").slider({
         loop: true, // Decides if the slider should loop. true/false

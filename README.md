@@ -23,19 +23,19 @@ NOTE: Make sure jQuery is included before slider and that both are included befo
     <figure>
         <img src="https://your-image-url.com" alt="Image alt text">
         <figcaption>
-            Image caption (optional)
+            Image caption
         </figcaption>
     </figure>
     <figure>
         <img src="https://your-image-url.com" alt="Image alt text">
         <figcaption>
-            Image caption (optional)
+            Image caption
         </figcaption>
     </figure>
     <figure>
         <img src="https://your-image-url.com" alt="Image alt text">
         <figcaption>
-            Image caption (optional)
+            Image caption
         </figcaption>
     </figure>
     ...

@@ -6,8 +6,8 @@ Slider.js is a lightweight carousel slider jQuery plugin
 
 ### How to use slider.js?
 
-###### Includes
-<sub>Add the code below to the `<head>` of your document</sub>
+#### Includes
+Add the code below to the `<head>` of your document
 
 ```
 <link type="text/css" rel="stylesheet" href="css/slider.min.css" />                  
@@ -16,7 +16,7 @@ Slider.js is a lightweight carousel slider jQuery plugin
 ```
 NOTE: Make sure jQuery is included before slider and that both are included before your own scripts.
 
-###### HTML Structure
+#### HTML Structure
 
 ```
 <div id="slider">
@@ -43,14 +43,14 @@ NOTE: Make sure jQuery is included before slider and that both are included befo
 ```
 NOTE: The figcaption is optional
 
-###### Initialize Slider.js
+#### Initialize Slider.js
 ```
 $(document).ready(() => {
     $("#slider").slider();
 });
 ```
 
-###### Edit settings
+#### Edit settings
 ```
 $(document).ready(() => {
     $("#slider").slider({

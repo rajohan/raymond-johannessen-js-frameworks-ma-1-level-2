@@ -9,7 +9,7 @@ Slider.js is a lightweight carousel slider jQuery plugin
 #### Includes
 Add the code below to the `<head>` of your document
 
-```
+```html
 <link type="text/css" rel="stylesheet" href="css/slider.min.css" />                  
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="js/slider.min.js"></script>
